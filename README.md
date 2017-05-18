@@ -1,2 +1,2 @@
-# BU_SU
-BackUp_Speeder-Upper for Mac OS X backups
+# TM_SU
+TimeMachine_Speeder-Upper for Mac OS X backups
